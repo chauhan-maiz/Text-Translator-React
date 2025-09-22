@@ -1,3 +1,14 @@
+# Key Features:
+• Multi-Language Support – Translate text into multiple languages using a translation API (e.g., RapidAPI).
+• Real-Time Translation – Get instant translations as you input text.
+• Modern UI/UX – Styled with TailwindCSS for a sleek and responsive design.
+• Mobile-Friendly – Works smoothly on desktops, tablets, and smartphones.
+• Copy & Clear Options – Easily copy translated text or clear input with one click.
+# Tech Stack:
+• Frontend: React (Hooks, Functional Components)
+• Styling: TailwindCSS
+• API Integration: RapidAPI (or any translation API of choice)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
